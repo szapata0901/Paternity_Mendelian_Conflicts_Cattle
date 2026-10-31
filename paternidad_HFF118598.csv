@@ -1,0 +1,3 @@
+offspring,parent,total_snps,snps_compared,informative_snps,conflicts,ibs0_rate_pct,expected_conflicts_if_parent,p_value,offspring_missing_pct,parent_missing_pct,result
+HFF118598,HFF97936,74672,74131,31510,15,0.04760393525864805,315.1,1.0,0.6106706663809728,0.2772123419755732,Compatible
+HFF118598,HFF69477,74672,74115,29804,6167,20.69185344249094,298.04,0.0,0.6106706663809728,0.2798907220912792,Excluded
